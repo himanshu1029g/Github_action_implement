@@ -26,3 +26,9 @@ jobs:
             docker stop node-container || true
             docker rm node-container || true
             docker run -d --name node-container -p 8080:8080 my-node-app
+
+
+
+
+
+# not working anything right now ..so take a break and do it later 
