@@ -8,7 +8,7 @@ const PORT = process.env.PORT ?? 8080
 
 app.get("/", (req,res)=>{
 
-    return res.json({msg : "Hello from the server and try 2 "})
+    return res.json({msg : "Hello from the server and try 3 "})
 })
 
 
